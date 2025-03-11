@@ -33,8 +33,8 @@ I’m a Year 1 student at **Nanyang Technological University (NTU)**, majoring i
 - Data Science research
 
 ## 📬 How to Reach Me  
-- 📧 Email: [vaisiyabalakrishnan@gmail.com] 
-- 💼 LinkedIn: [https://www.linkedin.com/in/vaisiya/]  
+- 📧 Email: vaisiyabalakrishnan@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/vaisiya/
 - 🐙 GitHub: [github.com/vaisiyabalakrishnan](https://github.com/vaisiyabalakrishnan)  
 
 ## 😄 Pronouns  
