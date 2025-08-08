@@ -16,21 +16,15 @@ Here are some ideas to get you started:
 # 👋 Hi, I’m Vaisiya Balakrishnan  
 
 ## 🎓 About Me  
-I’m a Year 1 student at **Nanyang Technological University (NTU)**, majoring in **Data Science and AI**. I'm passionate about **Artificial Intelligence, Machine Learning, and Data Science** and always eager to explore new technologies.  
+I’m a Year 2 student at **Nanyang Technological University (NTU)**, majoring in **Data Science and AI**. I'm passionate about **Artificial Intelligence, Machine Learning, and Data Science** and always eager to explore new technologies.  
 
 ## 💡 Interests  
 - 🤖 AI & Machine Learning  
 - 📊 Data Science & Analytics  
 - 💻 Software Development 
 
-## 📚 Currently Learning  
-- 🧠 Algorithm Design & Analysis
-- 🏗️ Object-Oriented Design & Software Engineering  
-- 🌐 Databases 
-
 ## 🤝 Looking to Collaborate On  
-- AI/ML projects  
-- Data Science research
+- AI/ML projects
 
 ## 📬 How to Reach Me  
 - 📧 Email: vaisiyabalakrishnan@gmail.com
