@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 # 👋 Welcome
 Hi, I'm Vaisiya, a Data Science & AI undergraduate at NTU and a Turing AI Scholar. I'm passionate about building intelligent systems that solve real-world problems. My current research explores the frontiers of agentic AI, program synthesis, and large language models (LLMs).
 
-My goal is to contribute to the development of AI-powered tools that enhance learning and productivity. I enjoy turning cutting-edge research into intuitive and reliable applications. You can find some of my projects here!
-
 ## 🔬 Team Research Projects
 - AI-Mediated Pair Programming for Algorithm Learning: Designing a role-constrained AI coding assistant to support DSA learning.
 - Program Synthesis of Underspecified Human-Robot Interaction: Investigating intent inference and multi-turn clarification dialogues in HRI.
